@@ -14,11 +14,11 @@ A back-end app that allows users to build their own database and invnetory using
 ## Description
 
 User is able to:
-    - View all Categories, Products, and Tags
-    - View individual Categories, Products, and Tags
-    - Create new Categories, Products, and Tags
-    - Update existing Categories, Products, and Tags
-    - Delete a Category, Product, and Tag
+- View all Categories, Products, and Tags
+- View individual Categories, Products, and Tags
+- Create new Categories, Products, and Tags
+- Update existing Categories, Products, and Tags
+- Delete a Category, Product, and Tag
 
 ## Installation
 
