@@ -81,7 +81,7 @@ router.put('/:id', async (req, res) => {
 
 router.delete('/:id', async (req, res) => {
   try{
-    const prodInfo = await Product.destory({where: {id: req.params.id}});
+    const prodInfo = await Product.destroy({where: {id: req.params.id}});
     if(!prodInfo){
       res.status(404).json({ message: 'Product not found / No products / Product already destroyed.' });
       return;
